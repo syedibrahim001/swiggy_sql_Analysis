@@ -68,7 +68,9 @@ Analyze the Results:
 
 Use the output of the queries to generate reports, perform analysis, or create visualizations based on the insights derived.
 .
-Questions Answered in the SQL Queries:
+
+##Questions Answered in the SQL Queries:
+
 1.Display all customers who live in 'Delhi': Query to select customers residing in Delhi.
 
 2.Find the average rating of all restaurants in 'Mumbai': Calculate the average restaurant rating in Mumbai.
